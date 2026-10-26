@@ -1,0 +1,5 @@
+.venc/
+kiet-cse/
+_pycache_
+.DS_Store
+.env
